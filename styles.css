@@ -29,8 +29,6 @@ body{
     font-family: "Playfair Display", serif;
     z-index: 1;
     text-aling: center;
-    left: 50%;
-    top: 50%;
     color: black;
     position: absolute;
 }
