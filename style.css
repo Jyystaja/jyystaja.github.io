@@ -3,8 +3,12 @@
 }
 
 .top-bar{
-    background-color: black;
+    background-color: white;
     padding: 10px;
+    aling-items: left;
     height: 50px;
-    
+    display: flex;
+}
+body{
+    background-color: black;
 }
