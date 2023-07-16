@@ -5,14 +5,14 @@
 }
 
 .top-bar{
-    background-color: white;
+    background-color: black;
     padding: 10px;
     aling-items: left;
     height: 75px;
     display: flex;
 }
 body{
-    background-color: black;
+    background-color: white;
 }
 
 .image{
