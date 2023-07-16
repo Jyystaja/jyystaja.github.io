@@ -20,5 +20,9 @@ body{
     height: auto;
 }
 .ad-text{
-    text-aling: left;
+    text-aling: center;
+    left: 10%;
+    top: 50%;
+    color: white;
+    position: absolute;
 }
