@@ -25,12 +25,20 @@ body{
     position: relative;
     z-index: 0;
 }
+.ad-image{
+    position: relative;
+    width: 100%
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    }
 .image-text{
     font-family: "Playfair Display", serif;
     z-index: 1;
     text-aling: center;
     color: black;
-    position: absolute;
+    background-color: white;
+    
 }
 .image-text h3{
     font-family: "Playfair Display", serif;
