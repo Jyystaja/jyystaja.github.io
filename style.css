@@ -1,9 +1,10 @@
 .logo{
-    transform: scale(0.2);
+    transform: scale(0.1);
 }
 
 .top-bar{
     background-color: black;
     padding: 10px;
+    height: 50px;
     
 }
