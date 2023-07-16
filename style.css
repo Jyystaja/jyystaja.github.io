@@ -1,6 +1,7 @@
 .logo{
-    height: 20px;
-    width: auto;
+    height: auto;
+    width: 30px;
+    margin-left: 10px;
 }
 
 .top-bar{
