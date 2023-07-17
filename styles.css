@@ -87,6 +87,7 @@
     justify-items: center;
     aling-items: center;
     width:100%
+    position:relative;
     }
     
 body{
@@ -94,6 +95,7 @@ body{
 }
 
 .image{
+    position:absolute;
     height:auto;
     width:108%;
     object-fit:cover;
