@@ -55,8 +55,8 @@
     }
 .bag-image{
     display: inline-block;
-    width: 70%;
-    height: 70%;
+    width: auto;
+    height: 100%;
     object-fit: cover;
     object-position: center;
     aling-items: center;
