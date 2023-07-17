@@ -34,7 +34,7 @@ body{
 
 .image{
     position:absolute;
-    height:500px;
+    height:800px;
     width:100%;
     left:0;
     top:0;
@@ -42,6 +42,7 @@ body{
     bottom:0;
     object-fit:cover;
     color:transparent
+    z-index: 0;
 }
 .ad-image{
     position: relative;
