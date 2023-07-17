@@ -26,7 +26,7 @@
 .top-bar{
     background-color: black;
     padding: 10px
-    aling-items: center;
+    aling-items: left;
     height: 160px;
     width: 100%;
     display: flex;
@@ -34,7 +34,7 @@
     top: 0;
     left: 0;
     z-index: 99;
-    justify-content: center;
+    justify-content: left;
 }
 
 .kuva{
