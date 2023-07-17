@@ -18,6 +18,9 @@
 .menu-button {
     margin-right: 100px;
     }
+.button-container{
+    aling-items: left;
+    }
 .top-bar{
     background-color: black;
     padding: 10px
