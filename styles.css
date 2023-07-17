@@ -98,7 +98,7 @@ body{
 .image{
     position:absolute;
     height:auto;
-    width:100vw
+    width:102%
     object-fit:cover;
     z-index: 0;
     top: 80px;
