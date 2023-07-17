@@ -102,6 +102,10 @@ body{
     margin-right:0px;
     margin-left:0px;
 }
+section{
+    aling-items:center;
+    justify-items:center;
+    }
 .ad-image{
     position: relative;
     width: 100%
