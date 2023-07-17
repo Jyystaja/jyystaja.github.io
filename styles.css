@@ -123,6 +123,7 @@ section{
      width:200px;
      bottom:0;
      left: 50vw;
+     position: absolute;
     }
 .image-text h1{
     font-family: "Playfair Display", serif;
