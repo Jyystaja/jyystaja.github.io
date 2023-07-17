@@ -41,6 +41,33 @@
     aling-items: left;
     left: 0;
     }
+    
+.bag-button {
+    margin-right:30px;
+    margin-top: 30px;
+    background-color:transparent;
+    height: 100px;
+    width: 100px;
+    border-color: transparent;
+    aling-items: center;
+    justify-content: center;
+    display: inline-block;
+    }
+.bag-image{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    aling-items: center;
+    justify-content: center;
+    color: white;
+    }
+.bag-container{
+    aling-items: right;
+    right: 0;
+    }
+    
 .top-bar{
     background-color: black;
     padding: 10px
