@@ -84,6 +84,8 @@
 
 .kuva{
     margin-top: 158px;
+    justify-items: center;
+    aling-items: center;
     }
     
 body{
@@ -92,7 +94,7 @@ body{
 
 .image{
     height:auto;
-    width:105%;
+    width:108%;
     object-fit:cover;
     z-index: 0;
     top: 0;
