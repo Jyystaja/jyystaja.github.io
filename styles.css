@@ -98,11 +98,10 @@ body{
 .image{
     position:absolute;
     height:auto;
-    width:100%
+    width:100vw;
     object-fit:cover;
     z-index: 0;
-    top: 80px;
-    left: -4%;
+    top: 0;
     margin-right:0px;
     margin-left:0px;
 }
