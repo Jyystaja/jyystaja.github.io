@@ -43,8 +43,8 @@
     }
     
 .bag-button {
-    margin-right:30px;
-    margin-top: 30px;
+    margin-right:20px;
+    margin-top: 20px;
     background-color:transparent;
     height: 100px;
     width: 100px;
@@ -66,7 +66,7 @@
 .bag-container{
     aling-items: right;
     right: 0;
-    margin-left: 100px;
+    margin-left: 200px;
     }
     
 .top-bar{
