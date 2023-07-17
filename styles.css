@@ -2,9 +2,8 @@
 
 .logo{
     height: 30px;
-    width: 50%;
-    margin-left: 10px;
-    top: 50%
+    width: 50px;
+    position: absolute;
 }
 
 .top-bar{
