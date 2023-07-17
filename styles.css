@@ -73,7 +73,7 @@
     background-color: black;
     aling-items: left;
     height: 160px;
-    width: 100%;
+    width: 100vw;
     display: flex;
     position: fixed;
     top: 0;
@@ -86,7 +86,7 @@
     margin-top: 158px;
     justify-items: center;
     aling-items: center;
-    width:100%
+    width:100vw;
     position:relative;
     }
     
@@ -98,7 +98,7 @@ body{
 .image{
     position:absolute;
     height:auto;
-    width:108%;
+    width:100vw
     object-fit:cover;
     z-index: 0;
     top: 80px;
