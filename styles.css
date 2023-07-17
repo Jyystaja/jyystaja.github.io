@@ -4,6 +4,7 @@
     height: 30px;
     width: auto;
     display: block;
+    top:50%
 }
 .top-bar{
     background-color: black;
