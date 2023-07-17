@@ -6,6 +6,11 @@
     display: block;
     top:50%
 }
+.logo-container{
+    display: flex;
+    aling-items: center;
+    justify-content: center;
+    }
 .top-bar{
     background-color: black;
     padding: 10px
