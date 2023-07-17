@@ -60,7 +60,6 @@ body{
     position: absolute;
     text-align: center;
     color: white;
-    background-color: black;
     margin-top: 400px;
     margin-left: 50px;
     
@@ -68,4 +67,6 @@ body{
 .image-text h1{
     font-family: "Playfair Display", serif;
     font-weight: bold;
+    background-color: black;
+    transform: scale(10);
 }
