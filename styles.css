@@ -21,6 +21,7 @@
     }
 .button-container{
     aling-items: left;
+    left: 0;
     }
 .top-bar{
     background-color: black;
