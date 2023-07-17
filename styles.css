@@ -32,6 +32,7 @@
 .kuva{
     position: relative;
     }
+    
 body{
     background-color: white;
 }
@@ -57,13 +58,12 @@ body{
     }
 .image-text{
     font-family: "Playfair Display", serif;
-    z-index: 1;
-    text-aling: center;
-    color: black;
-    background-color: white;
     position: absolute;
-    top: 50%
-    left: 20%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
     
 }
 .image-text h1{
