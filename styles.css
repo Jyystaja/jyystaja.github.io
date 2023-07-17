@@ -23,6 +23,7 @@
     height: 80px;
     width: 80px;
     border-color: white;
+    aling-items: center;
     }
 .menu-button span{
     width: 100%;
