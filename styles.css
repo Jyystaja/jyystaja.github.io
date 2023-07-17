@@ -99,7 +99,8 @@ body{
     z-index: 0;
     top: 0;
     left: 0;
-    margin-right:4px;
+    margin-right:0px;
+    margin-left:0px;
 }
 .ad-image{
     position: relative;
