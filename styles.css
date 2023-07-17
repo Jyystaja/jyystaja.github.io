@@ -83,7 +83,7 @@
 }
 
 .kuva{
-    
+    margin-top: 160px;
     }
     
 body{
@@ -95,7 +95,7 @@ body{
     width:100%;
     object-fit:cover;
     z-index: 0;
-    top: 160px;
+    top: 0;
 }
 .ad-image{
     position: relative;
