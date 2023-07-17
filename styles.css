@@ -61,8 +61,8 @@ body{
     text-align: center;
     color: white;
     background-color: black;
-    top: 50%
-    left: 20%
+    margin-top: 400px;
+    margin-left: 50px;
     
 }
 .image-text h1{
