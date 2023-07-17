@@ -98,7 +98,7 @@ body{
     object-fit:cover;
     z-index: 0;
     top: 0;
-    left: 0;
+    left: -4%;
     margin-right:0px;
     margin-left:0px;
 }
