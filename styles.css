@@ -7,7 +7,7 @@
     z-index: 100;
     max-height: 100%
     max-width: 100%;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 .logo-container{
     display: flex;
@@ -19,7 +19,7 @@
     background-color: black;
     padding: 10px
     aling-items: center;
-    height: 85px;
+    height: 100px;
     width: 100%;
     display: flex;
     position: fixed;
@@ -61,7 +61,7 @@ body{
     text-align: center;
     color: white;
     margin-top: 400px;
-    margin-left: 50px;
+    margin-left: 100px;
     
 }
 .image-text h1{
