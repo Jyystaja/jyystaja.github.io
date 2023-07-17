@@ -61,6 +61,8 @@ body{
     text-align: center;
     color: white;
     background-color: black;
+    top: 50%
+    left: 20%
     
 }
 .image-text h1{
