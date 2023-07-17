@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
 
 .logo{
-    height: 40px;
+    height: 55px;
     width: auto;
     display: block;
     z-index: 100;
     max-height: 100%
     max-width: 100%;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .logo-container{
     display: flex;
