@@ -57,13 +57,10 @@ body{
     flex-direction: column;
     }
 .image-text{
-    font-family: "Playfair Display", serif;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     text-align: center;
     color: white;
+    background-color: black;
     
 }
 .image-text h1{
