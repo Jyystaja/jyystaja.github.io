@@ -15,6 +15,9 @@
     justify-content: center;
     flex-grow: 1;
     }
+.menu-button {
+    margin-right: 100px;
+    }
 .top-bar{
     background-color: black;
     padding: 10px
