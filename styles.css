@@ -14,6 +14,19 @@
     height: 100vh;
     }
 
+.logo-span{
+    box-sizing:border-box;
+    display:inline-block;
+    overflow:hidden;
+    width:46px;
+    height:36px;
+    background:none;
+    opacity:1;
+    border:0;
+    margin:0;
+    padding:0;
+    position:relative
+    }
 .top-bar{
     background-color: black;
     padding: 0px
