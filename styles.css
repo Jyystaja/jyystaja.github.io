@@ -122,8 +122,8 @@ section{
     position: absolute;
     text-align: center;
     color: white;
-    top: 80%;
-    left: 50%
+    margin-top 100px;
+    left: 50vw;
     
 }
 .shop-now{
