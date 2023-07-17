@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
 
 .logo{
-    height: 60px;
-    width: 30%;
+    height: 30px;
+    width: 50%;
     margin-left: 10px;
-    left: 50%;
+    top: 50%
 }
 
 .top-bar{
     background-color: black;
     padding: 0px
     margin: 0px;
-    aling-items: left;
+    aling-items: center;
     height: 85px;
     width: 100%;
     display: flex;
