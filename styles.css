@@ -95,6 +95,7 @@ body{
     width:100%;
     object-fit:cover;
     z-index: 0;
+    top: 160px;
 }
 .ad-image{
     position: relative;
