@@ -25,8 +25,7 @@
     border-color: transparent;
     }
 .menu-button span{
-    height:50px;
-    width:auto;
+    transform: scale(2);
     }
 .button-container{
     aling-items: left;
