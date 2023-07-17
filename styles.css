@@ -92,7 +92,7 @@ body{
 
 .image{
     height:auto;
-    width:100%;
+    width:105%;
     object-fit:cover;
     z-index: 0;
     top: 0;
