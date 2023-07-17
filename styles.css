@@ -122,10 +122,14 @@ section{
     position: absolute;
     text-align: center;
     color: white;
-    margin-top: 400px;
-    margin-left: 180px;
+    top: 80%;
+    left: 50%
     
 }
+.shop-now{
+     height:50px;
+     width:200px;
+    }
 .image-text h1{
     font-family: "Playfair Display", serif;
     font-weight: bold;
