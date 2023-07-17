@@ -24,6 +24,7 @@
     width: 80px;
     border-color: white;
     aling-items: center;
+    justify-content: center;
     display: inline-block;
     }
 .menu-button span{
