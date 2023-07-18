@@ -203,3 +203,12 @@ section{
   flex: 0 0 auto;
   /* Add any additional styling for each product item */
 }
+
+.product-info {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 5px;
+}
