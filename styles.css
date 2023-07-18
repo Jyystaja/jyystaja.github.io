@@ -130,7 +130,7 @@ section{
     }
 .shop-now{
      height:120px;
-     width:100%;
+     width:70%;
      bottom:200px;
      position: absolute;
     }
@@ -140,4 +140,5 @@ section{
     font-size: 500%;
     font-family: "Playfair Display", serif;
     font-weight: bold;
+    bottom:50%;
     }
