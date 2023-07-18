@@ -137,12 +137,10 @@ section{
      aling-items:center;
      justify-content: center;
      padding-bottom: 30px;
-     border-color: red;
     }
 
 .shop-now h1{
     color:black;
     font-size: 500%;
-    font-family: "Playfair Display", serif;
     font-weight: bold;
     }
