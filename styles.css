@@ -120,16 +120,16 @@ section{
     flex-direction: column;
     }
 .shop-now{
-     height:80px;
+     height:100px;
      width:580px;
      bottom:200px;
-     left: 40vw;
+     left: 50%;
      position: absolute;
     }
 
 .shop-now h1{
     color:black;
-    transform: scale(2);
+    transform: scale(3);
     }
 .image-text h1{
     font-family: "Playfair Display", serif;
