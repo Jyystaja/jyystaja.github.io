@@ -88,6 +88,7 @@
     aling-items: center;
     width:100%;
     position:relative;
+    display: inline-block
     }
     
 body{
@@ -98,7 +99,6 @@ body{
 }
 
 .image{
-    position:absolute;
     height:auto;
     width:100vw;
     object-fit:cover;
@@ -106,6 +106,7 @@ body{
     top: 0;
     margin-right:3px;
     margin-left:0px;
+    display: block;
 }
 section{
     aling-items:center;
