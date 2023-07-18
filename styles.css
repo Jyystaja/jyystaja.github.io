@@ -134,6 +134,8 @@ section{
      bottom:200px;
      left: 10%;
      position: absolute;
+     padding:0;
+     margin:0;
     }
 
 .shop-now h1{
