@@ -96,7 +96,7 @@ body{
     overflow-x: hidden;
     margin:0;
     padding:0;
-    width:414px;
+    width:100vw;
 }
 
 .image{
