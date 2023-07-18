@@ -120,13 +120,11 @@ section{
     flex-direction: column;
     }
 .shop-now{
-     height:50px;
-     width:200px;
+     height:300px;
+     width:500px;
      bottom:200px;
      left: 40vw;
      position: absolute;
-     width: 700px;
-     height:300px
      font-color:black;
     }
 .image-text h1{
