@@ -158,3 +158,17 @@ section{
     font-size: 70px;
     
 }
+
+.product-list-container {
+  overflow-x: scroll;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.product-item {
+  flex: 0 0 auto;
+  /* Add any additional styling for each product item */
+}
