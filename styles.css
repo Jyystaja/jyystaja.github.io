@@ -140,10 +140,6 @@ section{
     color:black;
     height:70px;
     width:auto;
-    }
-.image-text h1{
     font-family: "Playfair Display", serif;
     font-weight: bold;
-    background-color: black;
-    transform: scale(3);
-}
+    }
