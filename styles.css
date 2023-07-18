@@ -142,6 +142,8 @@ section{
 .shop-now h1{
     color:black;
     transform: scale(3);
+    margin:0;
+    padding:0;
     }
 .image-text h1{
     font-family: "Playfair Display", serif;
