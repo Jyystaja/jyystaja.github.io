@@ -122,10 +122,11 @@ section{
 .shop-now{
      height:50px;
      width:200px;
-     bottom:60px;
+     bottom:200px;
      left: 40vw;
      position: absolute;
-     transform: scale(2);
+     width: 80px;
+     height:30px
     }
 .image-text h1{
     font-family: "Playfair Display", serif;
