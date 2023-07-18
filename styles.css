@@ -141,7 +141,8 @@ section{
 
 .shop-now h1{
     color:black;
-    transform: scale(70%);
+    width:70%;
+    height:auto;
     margin:0;
     padding:0;
     }
