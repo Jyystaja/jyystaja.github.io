@@ -162,6 +162,15 @@ section{
      display:flex;
      border-radius:50px 0 50px;
     }
+    
+.shop-now2 h1{
+    position:relative;
+    color:black;
+    font-size: 500%;
+    font-weight: bold;
+    bottom:13%;
+    transform: scale(1.2);
+    }
 
 
 .shop-now h1{
