@@ -133,12 +133,11 @@ section{
      width:100%;
      bottom:200px;
      position: absolute;
-     border: none;
     }
 
 .shop-now h1{
     color:black;
-    font-size: 80% !important;
+    font-size: 200% !important;
     font-family: "Playfair Display", serif;
     font-weight: bold;
     }
