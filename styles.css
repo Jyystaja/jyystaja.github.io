@@ -160,12 +160,11 @@ section{
 }
 
 .product-list-container {
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 
 .product-list {
   display: flex;
-  flex-wrap: nowrap;
 }
 
 .product-item {
