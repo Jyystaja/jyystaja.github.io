@@ -133,7 +133,7 @@ section{
      width:70%;
      bottom:200px;
      position: absolute;
-     margin-left:25%;
+     margin-left:15%;
      aling-items:center;
      justify-content: center;
     }
@@ -143,4 +143,5 @@ section{
     font-size: 500%;
     font-family: "Playfair Display", serif;
     font-weight: bold;
+    margin-bottom: 10px;
     }
