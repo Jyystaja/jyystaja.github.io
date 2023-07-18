@@ -112,6 +112,7 @@ body{
 section{
     aling-items:center;
     justify-items:center;
+    width:100vw;
     }
 .ad-image{
     position: relative;
