@@ -133,6 +133,8 @@ section{
      width:70%;
      bottom:200px;
      position: absolute;
+     margin-left:50%:
+     aling-items:center;
     }
 
 .shop-now h1{
@@ -140,5 +142,4 @@ section{
     font-size: 500%;
     font-family: "Playfair Display", serif;
     font-weight: bold;
-    bottom:50%;
     }
