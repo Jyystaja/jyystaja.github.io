@@ -149,3 +149,7 @@ section{
     bottom:13%;
     transform: scale(1.2);
     }
+.featured{
+    height:1200px;
+    margin:20px;
+}
