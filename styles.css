@@ -129,7 +129,7 @@ section{
     margin:0;
     }
 .shop-now{
-     height:120px;
+     height:130px;
      width:70%;
      bottom:200px;
      position: absolute;
@@ -140,6 +140,7 @@ section{
     }
 
 .shop-now h1{
+    position:absolute;
     color:black;
     font-size: 500%;
     font-weight: bold;
