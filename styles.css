@@ -133,8 +133,9 @@ section{
      width:70%;
      bottom:200px;
      position: absolute;
-     margin-left:50%;
+     margin-left:25%;
      aling-items:center;
+     justify-content: center;
     }
 
 .shop-now h1{
