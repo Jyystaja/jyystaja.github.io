@@ -122,8 +122,8 @@ section{
 .shop-now{
      height:50px;
      width:200px;
-     bottom:0;
-     left: 50vw;
+     bottom:20px;
+     left: 40vw;
      position: absolute;
     }
 .image-text h1{
