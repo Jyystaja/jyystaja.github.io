@@ -130,11 +130,12 @@ section{
     }
 .shop-now{
      height:120px;
-     width:60%;
+     width:60px;
      bottom:200px;
      position: absolute;
      padding:0;
      margin:0;
+     max-width:100%;
     }
 
 .shop-now h1{
