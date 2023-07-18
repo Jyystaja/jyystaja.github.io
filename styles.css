@@ -86,7 +86,7 @@
     margin-top: 158px;
     justify-items: center;
     aling-items: center;
-    width:100%;
+    width: 100vw;
     position:relative;
     display: inline-block
     }
@@ -115,7 +115,7 @@ section{
     }
 .ad-image{
     position: relative;
-    width: 100%
+    width: 100vw;
     height: auto;
     display: flex;
     flex-direction: column;
