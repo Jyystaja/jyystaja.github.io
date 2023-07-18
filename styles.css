@@ -140,7 +140,7 @@ section{
     }
 
 .shop-now h1{
-    position:absolute;
+    position:relative;
     color:black;
     font-size: 500%;
     font-weight: bold;
