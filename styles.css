@@ -138,6 +138,7 @@ section{
      justify-content: center;
      padding-bottom: 30px;
      display:flex;
+     border-radius:50%;
     }
 
 .shop-now h1{
