@@ -86,7 +86,7 @@
     margin-top: 158px;
     justify-items: center;
     aling-items: center;
-    width: 100vw;
+    width: 100%;
     position:relative;
     display: inline-block
     }
@@ -101,7 +101,7 @@ body{
 
 .image{
     height:auto;
-    width:100vw;
+    width:100%;
     object-fit:cover;
     z-index: 0;
     top: 0;
@@ -115,7 +115,7 @@ section{
     }
 .ad-image{
     position: relative;
-    width: 100vw;
+    width: 100%;
     height: auto;
     display: flex;
     flex-direction: column;
