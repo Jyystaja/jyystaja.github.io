@@ -207,7 +207,7 @@ section{
 
 .product-info {
   position: absolute;
-  bottom: 0;
+  bottom: -20px;
   left: 0;
   background-color: rgba(0, 0, 0, 0.8);
   width: 100%;
