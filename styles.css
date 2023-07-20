@@ -207,12 +207,13 @@ section{
 
 .product-info {
   position: absolute;
-  bottom: -20px;
+  bottom: 0px;
   left: 0;
   background-color: rgba(0, 0, 0, 0.8);
   width: 100%;
   color: #fff;
   padding: 5px;
+  transform: translateY(-40px);
 }
 
 .product-name {
