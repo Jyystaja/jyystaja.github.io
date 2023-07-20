@@ -220,9 +220,11 @@ section{
 .product-name {
   margin-bottom: 5px;
   font-size:45px;
+  font-weight: 400;
 }
 .product-price{
     font-size:30px;
+    font-weight:600;
     }
 .product-image{
     height:523px;
