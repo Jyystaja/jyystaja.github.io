@@ -1,4 +1,9 @@
 function changePageHTML(path) {
-  // Redirect to the other HTML file
-  window.location.href = path;
+  const contentElement = document.getElementById('html');
+
+  // Set the new HTML content for the page
+
+  // Update the content of the element
+  contentElement.innerHTML = path;
 }
+
