@@ -234,7 +234,7 @@ section{
     padding:50px;
     width:100%;
     height: 105px;
-    display: flex;
+    
 }
 
 .product-images img
@@ -242,4 +242,5 @@ section{
     padding:10px;
     height: 30px;
     width: auto;
+    display: inline-block
 }
