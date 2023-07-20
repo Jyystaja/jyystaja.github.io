@@ -209,7 +209,7 @@ section{
 
 .product-info {
   position: absolute;
-  top: 90%;
+  top: 120%;
   left: 0;
   background-color: rgba(0, 0, 0, 0.8);
   width: 100%;
@@ -219,6 +219,7 @@ section{
 
 .product-name {
   margin-bottom: 5px;
+  font-size:30px;
 }
 .product-image{
     height:523px;
