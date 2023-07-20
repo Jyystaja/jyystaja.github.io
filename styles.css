@@ -214,13 +214,16 @@ section{
   background-color: rgba(0, 0, 0, 0.8);
   width: 100%;
   color: #fff;
-  padding: 5px;
+  padding: 10px;
 }
 
 .product-name {
   margin-bottom: 5px;
-  font-size:30px;
+  font-size:45px;
 }
+.product-price{
+    font-size:30px;
+    }
 .product-image{
     height:523px;
 }
