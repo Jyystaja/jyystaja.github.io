@@ -193,6 +193,7 @@ section{
 
 .product-list-container {
   overflow-x: auto;
+  height:570px
 }
 
 .product-list {
@@ -218,4 +219,7 @@ section{
 
 .product-name {
   margin-bottom: 5px;
+}
+.product-image{
+    height:523px;
 }
