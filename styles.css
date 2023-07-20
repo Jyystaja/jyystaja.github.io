@@ -201,13 +201,16 @@ section{
 
 .product-item {
   flex: 0 0 auto;
+  position: relative;
   /* Add any additional styling for each product item */
 }
 
 .product-info {
   position: absolute;
   bottom: 0;
-  right: 0;
+  left: 0;
   background-color: rgba(0, 0, 0, 0.8);
+  width: 100%;
   color: #fff;
+  padding: 5px;
 }
