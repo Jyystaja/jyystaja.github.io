@@ -229,3 +229,17 @@ section{
 .product-image{
     height:523px;
 }
+.product-images
+{
+    padding:50px;
+    width:100%;
+    height: 105px;
+    display: flex;
+}
+
+.product-images img
+{
+    padding:10px;
+    height: 105px;
+    width: auto;
+}
