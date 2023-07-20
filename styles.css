@@ -229,7 +229,7 @@ section{
 .product-image{
     height:523px;
 }
-.product-images
+.item-images
 {
     padding:50px;
     width:100%;
@@ -237,7 +237,7 @@ section{
     
 }
 
-.product-images img
+.item-images img
 {
     padding:10px;
     height: 30px;
