@@ -244,3 +244,8 @@ section{
     width: auto;
     display: inline-block;
 }
+
+.product-description
+{
+    top:200px;
+}
