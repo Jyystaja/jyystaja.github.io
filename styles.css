@@ -193,7 +193,7 @@ section{
 
 .product-list-container {
   overflow-x: auto;
-  height:570px
+  height:700px
 }
 
 .product-list {
@@ -209,7 +209,7 @@ section{
 
 .product-info {
   position: absolute;
-  top: 96%;
+  top: 90%;
   left: 0;
   background-color: rgba(0, 0, 0, 0.8);
   width: 100%;
