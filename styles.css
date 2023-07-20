@@ -203,7 +203,7 @@ section{
 .product-item {
   flex: 0 0 auto;
   position: relative;
-  margin-right: 10px;
+  margin-right: 50px;
   /* Add any additional styling for each product item */
 }
 
