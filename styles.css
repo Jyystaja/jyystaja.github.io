@@ -231,10 +231,10 @@ section{
 }
 .product-container {
   flex-direction: row;
-  max-width: 1200px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 20px;
-  width:100%;
+  width:95%;
 }
 
 .product-images {
