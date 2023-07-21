@@ -273,16 +273,16 @@ section{
 }
 .product-details p {
   font-size: 35px;
+  max-width:90%;
 }
 
 .buy-now-button {
   display: block;
   position: fixed;
-  width: 400px
-  height: 330px
+  transform: scale(2);
   max-width: 500px;
   bottom:30px;
-  left:25%;
+  left:50%;
   background-color: #007bff;
   color: #fff;
   border: 20px;
@@ -293,6 +293,7 @@ section{
   margin-top: 20px;
   padding: 10px;
   border: 1px solid #ccc;
+  transform: scale(1);
 }
 .info-section p{
   font-size:35px;
