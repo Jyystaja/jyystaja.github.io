@@ -230,11 +230,11 @@ section{
     height:523px;
 }
 .product-container {
-  display: flex;
   flex-direction: row;
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
+  width:100%;
 }
 
 .product-images {
