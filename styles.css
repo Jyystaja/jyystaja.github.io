@@ -264,11 +264,11 @@ section{
 }
 
 .product-details h1 {
-  font-size: 24px;
+  font-size: 50px;
 }
 
 .product-details h2 {
-  font-size: 20px;
+  font-size: 45px;
   margin-top: 10px;
 }
 
@@ -278,7 +278,7 @@ section{
   width: 100%;
   max-width: 300px;
   bottom:30px;
-  left:50%;
+  left:25%;
   background-color: #007bff;
   color: #fff;
   border: 20px;
@@ -289,6 +289,9 @@ section{
   margin-top: 20px;
   padding: 10px;
   border: 1px solid #ccc;
+}
+.info-section h2{
+  font-size:45px;
 }
 
 .info-section.open {
