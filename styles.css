@@ -278,10 +278,9 @@ section{
   width: 100%;
   max-width: 300px;
   bottom:30px;
-  padding: 10px;
   left:50%;
   background-color: #007bff;
   color: #fff;
-  border: none;
+  border: 20px;
   cursor: pointer;
 }
