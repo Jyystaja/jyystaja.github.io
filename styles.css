@@ -248,8 +248,8 @@ section{
 
 .thumbnail-images {
   display: flex;
-  justify-content: space-between;
   margin-top: 20px;
+  margin-right:30px;
 }
 
 .thumbnail-images img {
