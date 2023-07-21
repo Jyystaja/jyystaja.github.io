@@ -284,3 +284,13 @@ section{
   border: 20px;
   cursor: pointer;
 }
+.info-section {
+  display: none;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.info-section.open {
+  display: block;
+}
