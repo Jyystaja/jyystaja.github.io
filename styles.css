@@ -280,9 +280,9 @@ section{
   display: block;
   position: fixed;
   width:400px;
-  height:200px;
+  height:50px;
   bottom:30px;
-  left:50%;
+  left:25%;
   background-color: #007bff;
   color: #fff;
   border: 20px;
