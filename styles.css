@@ -285,10 +285,11 @@ section{
   left:30%;
   background-color: #007bff;
   color: #fff;
-  border: 80px;
+  border-radius: 50px;
   cursor: pointer;
   font-size: 40px;
   border-color: transparent;
+ 
 }
 .info-section {
   display: none;
