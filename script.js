@@ -1,5 +1,5 @@
-function changeHTML() {
-  window.location.href = 'tuote1.html';
+function changeHTML(string sivu) {
+  window.location.href = sivu;
 }
 
 function changeBigImage(imageSrc) {
