@@ -280,12 +280,12 @@ section{
   display: block;
   position: fixed;
   width:400px;
-  height:50px;
+  height:80px;
   bottom:30px;
   left:25%;
   background-color: #007bff;
   color: #fff;
-  border: 20px;
+  border: 80px;
   cursor: pointer;
 }
 .info-section {
