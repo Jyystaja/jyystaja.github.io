@@ -287,6 +287,7 @@ section{
   color: #fff;
   border: 80px;
   cursor: pointer;
+  font-size: 200px;
 }
 .info-section {
   display: none;
