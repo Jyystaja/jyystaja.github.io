@@ -279,8 +279,8 @@ section{
 .buy-now-button {
   display: block;
   position: fixed;
-  width:800px;
-  height:auto;
+  width:400px;
+  height:200px;
   bottom:30px;
   left:50%;
   background-color: #007bff;
